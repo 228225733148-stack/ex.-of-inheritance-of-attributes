@@ -1,0 +1,1 @@
+# ex.-of-inheritance-of-attributes
